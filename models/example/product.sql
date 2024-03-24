@@ -1,0 +1,2 @@
+Select * 
+from raw.product
