@@ -4,7 +4,7 @@ Expressions {{ ... }}: Expressions are used when you want to output a string. Yo
 
 ```
 {{ ref('orders')}}
-{{ var(ABC))
+{{ var(ABC)) }}
 ```
 
 Statements {% ... %}: Statements don't output a string. They are used for control flow, for example, to set up for loops and if statements, to set or modify variables, or to define macros. e.g.: for, if
